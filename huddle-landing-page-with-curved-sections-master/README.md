@@ -2,6 +2,18 @@
 
 This is a solution to the [Huddle landing page with curved sections challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-curved-sections-5ca5ecd01e82137ec91a50f2). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+## Where to find everything:
+
+- You will find both a mobile and a desktop version of the design in the design folder.
+- There is also a style-guide.md file containing the information, such as color palette and fonts.
+
+## Things I try to come up with:
+
+- Optimizing the layout for the site depending on their device's screen size.
+- Adding hover states for all interactive elements on the page.
+- Coming up with suitable stylings for fonts and box-model.
+- Writing clean code as much as possiblle.
+
 ## Table of contents
 
 - [Overview](#overview)
