@@ -13,6 +13,7 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 - Adding hover states for all interactive elements on the page.
 - Coming up with suitable stylings for fonts and box-model.
 - Writing clean code as much as possiblle.
+- Following best HTML practices in order to keep the HTML documents consistent and organized.
 
 ## Table of contents
 
