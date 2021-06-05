@@ -63,7 +63,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Chathura Perera](https://www.your-site.com)
 - Frontend Mentor - [@chathura](https://www.frontendmentor.io/profile/chathurperera)
 
 
